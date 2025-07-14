@@ -1,0 +1,2 @@
+hello git it is a new user
+and i am testing git after a whiile ,checking out nano and cat with less
